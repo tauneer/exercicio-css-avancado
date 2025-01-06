@@ -8,7 +8,7 @@ Objetivo: Crie um site estilo YouTube usando as técnicas ensinadas nas aulas de
 ![Objetivo](https://github.com/user-attachments/assets/5f75ea15-6a8d-401f-bd5c-e1ecb7bfe10e)
 
 
-Meu primeiro desenvolvimento, como achei o exercício simples, optei em me desafiar, tentei replicar o Youtube.
+Meu primeiro desenvolvimento, optei em me desafiar, tentei replicar o Youtube.
 
 Resultado atingido
 https://tauneer.github.io/exercicio-css-avancado/
